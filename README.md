@@ -21,7 +21,7 @@ loan.csv dataset is used that has the complete loan data for all loans issued th
 
 ## Conclusions
 
-###Univariate Analysis
+### Univariate Analysis
 
 - Defaulter's loans are lower in numbers compared to Non-Defaulters (Fully Paid)
 - Loan amount has a range of loans from 500 to 35k with a mean of 9.8k
@@ -30,7 +30,7 @@ loan.csv dataset is used that has the complete loan data for all loans issued th
 - Interest rate is more crowded between 5-10 and 10-15 along with a drop near 10%
 - Lot of loans are in Grade A and Grade B, meaning loans are approved more for higher grades
 
-###Segmented Univariate Analysis
+### Segmented Univariate Analysis
 
 - High number of loans are issued in 12th months and year 2011
 - Borrowers below 50k have high almost half of the defaulters, this can be a risk factor
@@ -42,7 +42,7 @@ loan.csv dataset is used that has the complete loan data for all loans issued th
 - A high percentage of loans are taken for the purpose of debt consolidation followed by credit card
 - Compared to Sub grades of A, more numbers of defaulters are in Sub Grade of B & C, this us a risk factor
 
-###Bivariate Analysis
+### Bivariate Analysis
 
 - The rate of interest is inversely proportional to Grades meaning higher the grade, lower is the interest rate. Grade is a risk factor.
 - Most of the borrowers dont have bankruptcy records and are safe choice for loan approvals
@@ -60,7 +60,7 @@ loan.csv dataset is used that has the complete loan data for all loans issued th
 7. Higher Interest rates
 8. Length of the Employment
 
-###Rationale
+### Recommendations
 
 1. Borrowers having loans against debt consolidation and Credit Cards are more likely to get into debt trap with high interest      
    rates complicating loan repayment and are likely to default

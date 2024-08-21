@@ -49,6 +49,17 @@ loan.csv dataset is used that has the complete loan data for all loans issued th
 - The Grade A which is lowest risk also has lowest DTI ratio which we can say that higher grade has lower rate of default
 - The brrowers are mostly having no record of Public Recorded Bankruptcy and are safe choice for loan issue.
 
+### Factors influencing loan defaulters
+
+1. Loans against Debt Consolidation and Credit Card
+2. Debt to Income factor 
+3. Grades
+4. Annual income
+5. Public Record Bankruptcies
+6. Home Ownership
+7. Higher Interest rates
+8. Length of the Employment
+
 ###Rationale
 
 1. Borrowers having loans against debt consolidation and Credit Cards are more likely to get into debt trap with high interest      
@@ -71,6 +82,9 @@ loan.csv dataset is used that has the complete loan data for all loans issued th
     Matplotlib - version 3.8.4
     Numpy - version 1.26.4
     Seaborn - version 0.13.2
+    plotly.express - version 5.10.0
+    Micrsoft Excel
+    Microsoft Power Point
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
